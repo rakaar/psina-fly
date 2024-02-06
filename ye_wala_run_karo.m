@@ -3,8 +3,8 @@
 %%
 clear; close all;clc;
 code_dir = pwd;
-main_dirr = 'E:\2-P\Data_2p\REAL STUFFS';
-figs_path = 'E:\2-P\PSINA_df_f_cells_rois_fig_files\';
+main_dirr = 'E:\2-P\Data_2p\REAL STUFFS'; % Data directory
+figs_path = 'E:\2-P\PSINA_df_f_cells_rois_fig_files\'; % figs directory
 % cd(main_dirr);
 % curr_dirr = '\\Darkknightrises\f\Sarani_ADLab';
 % cd(curr_dirr);
